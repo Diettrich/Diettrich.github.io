@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/Diettrich.github.io/simple-blog/static/js/main.56b9aed8.chunk.js",
-    "main.js.map": "/Diettrich.github.io/simple-blog/static/js/main.56b9aed8.chunk.js.map",
-    "runtime-main.js": "/Diettrich.github.io/simple-blog/static/js/runtime-main.df959b93.js",
-    "runtime-main.js.map": "/Diettrich.github.io/simple-blog/static/js/runtime-main.df959b93.js.map",
-    "static/js/2.7d95f0cc.chunk.js": "/Diettrich.github.io/simple-blog/static/js/2.7d95f0cc.chunk.js",
-    "static/js/2.7d95f0cc.chunk.js.map": "/Diettrich.github.io/simple-blog/static/js/2.7d95f0cc.chunk.js.map",
-    "index.html": "/Diettrich.github.io/simple-blog/index.html",
-    "precache-manifest.96ef4caf224a83e38909a6220a74330b.js": "/Diettrich.github.io/simple-blog/precache-manifest.96ef4caf224a83e38909a6220a74330b.js",
-    "service-worker.js": "/Diettrich.github.io/simple-blog/service-worker.js",
-    "static/js/2.7d95f0cc.chunk.js.LICENSE.txt": "/Diettrich.github.io/simple-blog/static/js/2.7d95f0cc.chunk.js.LICENSE.txt",
-    "static/media/blog-post.1.md": "/Diettrich.github.io/simple-blog/static/media/blog-post.1.cb471b9e.md",
-    "static/media/blog-post.2.md": "/Diettrich.github.io/simple-blog/static/media/blog-post.2.c206db4f.md",
-    "static/media/blog-post.3.md": "/Diettrich.github.io/simple-blog/static/media/blog-post.3.8211793f.md"
+    "main.js": "/Diettrich.github.io/static/js/main.56b9aed8.chunk.js",
+    "main.js.map": "/Diettrich.github.io/static/js/main.56b9aed8.chunk.js.map",
+    "runtime-main.js": "/Diettrich.github.io/static/js/runtime-main.afddfb63.js",
+    "runtime-main.js.map": "/Diettrich.github.io/static/js/runtime-main.afddfb63.js.map",
+    "static/js/2.7d95f0cc.chunk.js": "/Diettrich.github.io/static/js/2.7d95f0cc.chunk.js",
+    "static/js/2.7d95f0cc.chunk.js.map": "/Diettrich.github.io/static/js/2.7d95f0cc.chunk.js.map",
+    "index.html": "/Diettrich.github.io/index.html",
+    "precache-manifest.6832b493e3d5ba2ba87b9c6091206893.js": "/Diettrich.github.io/precache-manifest.6832b493e3d5ba2ba87b9c6091206893.js",
+    "service-worker.js": "/Diettrich.github.io/service-worker.js",
+    "static/js/2.7d95f0cc.chunk.js.LICENSE.txt": "/Diettrich.github.io/static/js/2.7d95f0cc.chunk.js.LICENSE.txt",
+    "static/media/blog-post.1.md": "/Diettrich.github.io/static/media/blog-post.1.cb471b9e.md",
+    "static/media/blog-post.2.md": "/Diettrich.github.io/static/media/blog-post.2.c206db4f.md",
+    "static/media/blog-post.3.md": "/Diettrich.github.io/static/media/blog-post.3.8211793f.md"
   },
   "entrypoints": [
-    "static/js/runtime-main.df959b93.js",
+    "static/js/runtime-main.afddfb63.js",
     "static/js/2.7d95f0cc.chunk.js",
     "static/js/main.56b9aed8.chunk.js"
   ]
